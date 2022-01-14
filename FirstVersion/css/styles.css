@@ -1,0 +1,38 @@
+body {
+  background-color: #F9F9F9;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #C886E5;
+  border-width: 5px;
+  width: 5%;
+}
+h3 {
+  color: #CAADDE;
+}
+h1{
+  color: #CAADDE;
+}
+img:hover{
+  border-radius: 0%;
+}
+
+/******************************************************class selecter**************************************************/
+/*can be applied to group of items*/
+.class1 {
+  background-color: #C886E5;
+}
+.circular{
+  border-radius: 100%;
+}
+.Profile_Picture{
+  background-color: #C886E5;
+}
+
+
+/******************************************************ID selecter**************************************************/
+/*only used once*/
+#ID2 {
+  color: rgb(105, 56, 238);
+}
